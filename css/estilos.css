@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(148, 142, 137);
+}
+
+.beige{
+    background-color: beige;
+    height: 10vh;
+}
+
+.negro{
+    background-color: black;
+    height: 10vh;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
+
+.Chess {
+    padding: 10px;
+}
+
+
+.creditos {
+    padding-top: 30px;
+}
+
+
